@@ -199,6 +199,18 @@
   padding-left: 8px;
 }
 
+.keset {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.video {
+ margin-left: 210px;
+ margin-top: 50px;
+ margin-bottom: 20px;
+}
+
 .gambarlogo {
     width: 40px;
     padding: 2px;
@@ -256,5 +268,6 @@
         flex-direction: column;
     }
     
+
 
 }
